@@ -1,4 +1,4 @@
-package org.mervenaz.factorymethod;
+package org.mervenaz.factoryDesign;
 
 
 public class Editor implements User {

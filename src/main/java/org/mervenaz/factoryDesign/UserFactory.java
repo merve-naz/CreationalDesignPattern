@@ -1,4 +1,4 @@
-package org.mervenaz.factorymethod;
+package org.mervenaz.factoryDesign;
 
 public class UserFactory {
     public static User createUser(String type) {
